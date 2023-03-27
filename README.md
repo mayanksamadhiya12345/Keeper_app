@@ -5,7 +5,7 @@
 
 Built this project for Learning and Practicing the basics of React-JS
 
-[documentation link](https://mayanksamadhiya12345.github.io/keeper_app/)
+[Live link](https://mayanksamadhiya12345.github.io/keeper_app/)
 
 # Overview
 A simple keep notes Webapp where we can write our task and save them, later we can delete them after finishing that task
